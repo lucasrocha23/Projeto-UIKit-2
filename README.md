@@ -8,6 +8,6 @@ Na tela inicial, temos uma lista e imagens, na qual o usuário pode clicar em um
 
 <br>
 <div align="center">
-<img src="imagens/tela inicial.png" alt="photo" width="285" height="617'"><br>
+<img src="imagens/tela inicial.png" alt="photo" width="285" height="617'">
 <img src="imagens/tela de vizualização.png" alt="photo" width="285" height="617'"><br>
 </div>
